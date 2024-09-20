@@ -1,16 +1,9 @@
+# Modular Designs Piece by Piece 
+Similar to Gridfinity, this website is for modular designs and guidelines for making said modular designs. These designs should be able to be 3D printed.
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
-#### Email
-sli[at]cumt.edu.cn
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+## Sizing and Making
+To begin, we have a few sizing requirements. **To get this out of the way, all of the dimensions will be in mm, so should designs also be in mm.**
+- Small:
+  * 20 x 20 x 20 block
+  * 18x18x18 working area (w/o tolerance)
+  * 2mm
