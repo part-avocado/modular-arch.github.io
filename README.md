@@ -1,9 +1,6 @@
-
-
-![Github Forks](https://img.shields.io/github/forks/senli1073/senli1073.github.io?style=flat)
-![Github Stars](https://img.shields.io/github/stars/senli1073/senli1073.github.io?style=flat)
-![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
-![Last Commit](https://img.shields.io/github/last-commit/senli1073/senli1073.github.io)
+![Github Stars](https://img.shields.io/github/stars/part-avocado/modular-arch.github.io?style=flat)
+![License](https://img.shields.io/github/license/part-avocado/modular-arch.github.io)
+![Last Edit](https://img.shields.io/github/last-commit/part-avocado/modular-arch.github.io)
 
 # A simple Github Pages template for academic personal website.
 
