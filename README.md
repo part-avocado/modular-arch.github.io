@@ -7,4 +7,4 @@
 Hej! Thanks for visiting ModularArch's Github!
 
 ## Bugs
-There will always be bugs in any piece of code, including this website. If you find any bugs, please go to [Issues](https://github.com/part-avocado/modular-arch.github.io/issues), and post it accordingly. This also applies to model reports. Please label with the proper tag, otherwise it will be deleted.
+There will always be bugs in any piece of code, including this website. If you find any bugs, please go to [Issues](https://github.com/part-avocado/modular-arch.github.io/issues), and post it accordingly. **This also applies to model reports.** Please label with the proper tag, otherwise it will be deleted.
