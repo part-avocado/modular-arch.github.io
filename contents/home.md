@@ -5,16 +5,21 @@ Similar to Gridfinity, this website is for modular designs and guidelines for ma
 To begin, we have a few sizing requirements. **All of the dimensions will be in millimetres, and the standard tolerance should be .2 mm.** 
 - Micro:
   * 15x15x15 block
-  * 12x12x12 working area (w/o tolerance w/ 1 mm above base)
-  * 2x15 bars in an O shape for stacking (w/o) tolerance) (TOP)
+  * 12x12x12 working area (w/o tolerance & 1mm above base)
+  * 2x15 bars in an O shape for stacking (w/o tolerance) (TOP)
   * 13x13 square to fit into the O bars (these should include tolerance, i.e. 12.8x12.8) (BOTTOM)
      * Example: !not yet avaliable!
 - Small:
   * 20x20x20 block
-  * 18x18x18 working area (w/o tolerance w/ 1 mm above base)
+  * 18x18x18 working area (w/o tolerance & 1mm above base)
   * 2x20 bars in a U shape for stacking (w/o tolerance) (TOP)
   * 18x18 square to fit into the U bars (these should include tolerance, i.e. 17.8x17.8) (BOTTOM)
     * EXAMPLE: https://www.printables.com/model/1012712-simple-modular-desktop-storage/files
+- Large:
+  * 30x30x30 block
+  * 28x28x28 working area (w/o tolerance & 1mm above base)
+  * 2x30 bars in an O shape for stacking (w/o tlerance) (TOP)
+  * 
 
 
 ## Copyrights
