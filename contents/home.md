@@ -27,7 +27,7 @@ Every piece of work that you make should be *yours*, so that is why we also incl
 Here are some suggested copyright formats:
 - [CC BY](https://creativecommons.org/licenses/by/4.0/)
 - [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
-- [CC BY-NC] (https://creativecommons.org/licenses/by-nc/4.0/)
-- [CC BY-NC-SA] (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-- [MIT] (https://opensource.org/license/mit/)
+- [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
+- [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- [MIT License](https://opensource.org/licenses/mit/4.0/)
 
